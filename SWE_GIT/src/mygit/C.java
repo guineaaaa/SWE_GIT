@@ -10,7 +10,8 @@ public class C {
 		System.out.println("=== 성적 관리 프로그램 ===");
 		System.out.println("학생 :"+student.name);
 		System.out.println("점수: "+score.subjectScore);
-		System.out.println("결과: 데이터없음");
+		// Alice가 평균 관련 출력문 추가
+		System.out.println("결과: 평균 점수 계산중");
 
 	}
 
